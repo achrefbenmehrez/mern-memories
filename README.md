@@ -3,4 +3,4 @@ This app was built with the mern (MongoDB, Expressjs, Reactjs, Nodejs) and redux
 
 ## Live preview 
 
-https://achref-mern-blog.herokuapp.com/
+https://achref-blog.netlify.app/
